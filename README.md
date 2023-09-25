@@ -1,7 +1,9 @@
 ### Benidate べにだて
 
 地震情報通知アプリ「Zero Quake」を作成中。
+
 第二言語はJavascriptです() 最近node.js に手を出しました。
+
 Javascript, html, cssなど
 
 <!--
