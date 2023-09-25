@@ -1,4 +1,8 @@
-### Hi there 👋
+### Benidate べにだて
+
+地震情報通知アプリ「Zero Quake」を作成中。
+第二言語はJavascriptです() 最近node.js に手を出しました。
+Javascript, html, cssなど
 
 <!--
 **0Quake/0quake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
