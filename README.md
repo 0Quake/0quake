@@ -1,6 +1,6 @@
 ### Benidate べにだて
 
-地震情報通知アプリ「[Zero Quake](https://github.com/0Quake/Zero-Quake)」を制作中。
+地震情報通知アプリ「[Zero Quake](https://github.com/0Quake/Zero-Quake)」をオープンソースで制作中。
 公開情報を受信し表示するアプリとして、提供できる付加価値は何か、模索していきます。
 
 <!--
