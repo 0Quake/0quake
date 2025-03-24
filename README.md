@@ -1,10 +1,7 @@
 ### Benidate べにだて
 
-地震情報通知アプリ「Zero Quake」を作成中。
-
-第二言語はJavascriptです() 最近node.js に手を出しました。
-
-Javascript, html, cssなど
+地震情報通知アプリ「[Zero Quake](https://github.com/0Quake/Zero-Quake)」を制作中。
+公開情報を受信し表示するアプリとして、提供できる付加価値は何か、模索していきます。
 
 <!--
 **0Quake/0quake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
